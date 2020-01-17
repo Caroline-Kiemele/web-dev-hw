@@ -1,0 +1,7 @@
+The web is different than the internet because the internet connect participants while the web connects information.  In other words, the internet is the infrastructure and the web is what connects and organizes everything on the internet.
+
+The internet is physically connected by runs that run under the ocean and throughout the continents, connecting us all.  It is independently operated networks that makes business decisions made independently by the operators.
+
+A directory is also known as a "folder" which is a container that groups files together.  Directories organize and store files. 
+
+Using a VCS is beneficial because it allows a developer to track their changes over time, allowing them to view how they have changed a file throughout a process. It allows for a developer to easily undo a change that didn't work.  It also allows developers to share and collaborate with other people.
