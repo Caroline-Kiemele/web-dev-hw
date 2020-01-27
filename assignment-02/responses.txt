@@ -1,0 +1,4 @@
+Briefly describe one way how data travels on the internet: Data travels through binary code as bits that represent either a 1 or a 0.  Similar to Morse code, these bits are transmitted from one location to another.
+What is the relationship between an IP address and the DNS? A DNS is used in an IP address as a way to code or reference any letters or words in the actual address when the IP address is being sent to another device.
+What is a cookie? They are messages that are sent to your web browser by a server to gather info when you visit websites.  Your browser stores these messages in a file that is the cookie.
+4.	List the three basic parts of a URL: The three basic parts of a URL are the protocol, the domain and the path.  
