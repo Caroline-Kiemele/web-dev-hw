@@ -7,6 +7,18 @@ h1 {
   position: centered
 }
 
+#rubiks {
+position: absolute
+left: 20px;
+bottom: 0;
+}
+
+#apple {
+  position: absolute;
+  right: 20px;
+  bottom: 0;
+}
+
 h2 {
   /* the text in these squares should appear white. */
   color: white;
