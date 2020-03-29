@@ -6,6 +6,16 @@ h1 {
   padding: 30px;
 }
 
+#rubiks {
+  position: absolute;
+  left: 10px;
+}
+
+#apple {
+position: absolute;
+right: 10px;
+}
+
 h2 {
   color: white;
 }
@@ -20,19 +30,16 @@ opacity: 1;
   background-color: #3AB1FC;
   position: absolute;
   left: 10px;
-  bottom: 75;
 }
 
 #yellow {
   background-color: #FBE608;
   position: absolute;
   left: 200px;
-  bottom: 75;
 }
 
 #pink {
   background-color: #FF377B;
   position: absolute;
   right: 50px
-  bottom: 75;
 }
