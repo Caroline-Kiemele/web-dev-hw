@@ -3,7 +3,7 @@ h1 {
 }
 
 .image {
-  padding: 10px;
+  padding: 30px;
 }
 
 .square {
@@ -11,13 +11,13 @@ width: 35%;
 }
 
 #blue {
-  background-color: blue;
+  background-color: #3AB1FC;
 }
 
 #yellow {
-  background-color: yellow;
+  background-color: #FBE608;
 }
 
 #pink {
-  background-color: pink;
+  background-color: #FF377B;
 }
