@@ -2,6 +2,10 @@ h1 {
   color: blue;
 }
 
+.image {
+  padding: 10px;
+}
+
 .square {
 width: 35%;
 }
