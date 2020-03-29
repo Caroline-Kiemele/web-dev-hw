@@ -27,26 +27,23 @@ h2 {
 .square {
 width: 20%;
 height: 100px;
-opacity: 1.0;
+opacity: 0.9;
 }
 
 #blue {
   background-color: rgb(38, 139, 210);
   position: absolute;
   left: 10px;
-  bottom: 0;
 }
 
 #yellow {
   background-color: #FBE608;
   position: absolute;
   left: 400px;
-  bottom: 75px;
 }
 
 #pink {
   background-color: #FF377B;
   position: absolute;
   right: 10px;
-  bottom: 100px;
 }
