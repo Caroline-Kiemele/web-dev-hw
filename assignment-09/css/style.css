@@ -8,6 +8,7 @@ h1 {
 }
 
 h2 {
+  /* the text in these squares should appear white. */
   color: white;
 }
 
@@ -18,7 +19,7 @@ opacity: 0.2;
 }
 
 #blue {
-  background-color: #3AB1FC;
+  background-color: rgb(38, 139, 210);
   position: absolute;
   left: 10px;
   bottom: 0;
