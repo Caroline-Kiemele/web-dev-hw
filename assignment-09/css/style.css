@@ -3,6 +3,17 @@ h1 {
 }
 
 .square{
-backgroung-color: blue;
 width: 35%
+}
+
+#blue {
+  background-color: blue
+}
+
+#yellow {
+  background-color: yellow
+}
+
+#pink {
+  background-color: pink
 }
