@@ -13,26 +13,26 @@ h2 {
 .square {
 width: 35%;
 height: 100px;
-opacity: 0.5;
+opacity: 0.9;
 }
 
 #blue {
   background-color: #3AB1FC;
   position: absolute;
   left: 10px;
-  bottom: 0;
+  bottom: 75;
 }
 
 #yellow {
   background-color: #FBE608;
   position: absolute;
   left: 100px;
-  bottom: 0;
+  bottom: 75;
 }
 
 #pink {
   background-color: #FF377B;
   position: absolute;
   left: 210px
-  bottom: 0;
+  bottom: 75;
 }
