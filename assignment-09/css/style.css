@@ -4,16 +4,7 @@ h1 {
 
 .image {
   padding: 30px;
-}
-
-#rubiks {
-  position: absolute;
-  left: 10px;
-}
-
-#apple {
-position: absolute;
-right: 10px;
+  position: centered
 }
 
 h2 {
@@ -23,7 +14,6 @@ h2 {
 .square {
 width: 35%;
 height: 100px;
-opacity: 1;
 }
 
 #blue {
