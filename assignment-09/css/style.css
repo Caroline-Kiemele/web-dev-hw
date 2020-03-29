@@ -6,8 +6,13 @@ h1 {
   padding: 30px;
 }
 
+h2 {
+  color: white;
+}
+
 .square {
 width: 35%;
+height: 100px; 
 }
 
 #blue {
