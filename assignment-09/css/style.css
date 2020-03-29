@@ -13,6 +13,7 @@ h2 {
 .square {
 width: 35%;
 height: 100px;
+opacity: 0.5;
 }
 
 #blue {
