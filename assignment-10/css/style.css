@@ -1,0 +1,11 @@
+body {
+  background-color: gold;
+  color: black;
+  padding: 10px;
+}
+
+.text {
+  background-color: white;
+  color: black;
+  padding: 5px;
+}
