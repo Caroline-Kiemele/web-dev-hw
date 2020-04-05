@@ -1,7 +1,11 @@
 body {
-  background-color: gold;
+  background-color: #cd7f32;
   color: black;
   padding: 10px;
+}
+
+.title{
+  color: white;
 }
 
 .text {
