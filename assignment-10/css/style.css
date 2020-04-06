@@ -16,7 +16,7 @@ body {
   color: white;
   padding: 5px;
 
-  line-height: 3em;
+  line-height: 2em;
 }
 p::first-letter {
   font-family: 'Anton', sans-serif;
