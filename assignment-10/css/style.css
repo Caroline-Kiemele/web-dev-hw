@@ -18,8 +18,17 @@ body {
 
   line-height: 1.5em;
 }
-p::first-letter{
+p::first-letter {
   font-family: 'Anton', sans-serif;
   font-size: 2em;
   font-weight: 700;
+}
+
+a {
+  background-color: gold;
+  color: white;
+  padding: 5px;
+}
+a:hover {
+  font-style: italic;
 }
