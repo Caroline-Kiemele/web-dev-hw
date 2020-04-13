@@ -29,12 +29,15 @@ body {
 
 /*logo, title and site links*/
 .site-info{
+ margin: 2em 2em 2em 2em;
 
 }
 .logo {
   background-color: #FFF;
   width: 100px;
   height: 100px;
+
+  margin: auto;
 
   border: ;
   border-radius: 50%;
