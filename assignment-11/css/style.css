@@ -1,6 +1,8 @@
 <link href="https://fonts.googleapis.com/css2?family=Comic+Neue:wght@300&display=swap" rel="stylesheet">
 
 body {
+  margin: 0;
+
   font-family: 'Comic Neue', cursive;
   font-size: 2em;
 }
@@ -8,7 +10,7 @@ body {
 .navigation {
   background-color: #003366;
   width: 100%;
-  height: 150px;
+  height: 100px;
 
   position: fixed;
   top: 0px;
@@ -16,4 +18,11 @@ body {
 
 .main {
   background-color: #fff;
+  margin-top: 150px;
+  padding: 1em;
+}
+
+.banner {
+  width: 100%;
+  height: auto; 
 }
