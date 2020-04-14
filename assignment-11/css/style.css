@@ -44,15 +44,15 @@ body {
 
 .logo {
   background-color: #000;
-  width: 75px;
-  height: 75px;
+  width: 90px;
+  height: 90px;
 
   padding: 5px;
 
   border: 5px solid #003366;
   border-radius: 10%;
 
-  line-height: 75px;
+  line-height: 90px;
   text-transform: uppercase;
 }
 .logo:hover {
