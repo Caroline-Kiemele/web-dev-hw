@@ -38,9 +38,6 @@ body {
  padding: 5px;
  font-size: 1.5em;
 }
-.site-info a {
-  margin: 0em 1em 0em 1em;
-}
 .site-info a:hover {
   text-decoration: underline;
 }
@@ -49,6 +46,8 @@ body {
   background-color: #000;
   width: 75px;
   height: 75px;
+
+  padding: 5px;
 
   border: 5px solid #003366;
   border-radius: 10%;
