@@ -53,3 +53,7 @@ body {
   line-height: 100px;
   text-transform: uppercase;
 }
+.logo:hover {
+  border: 5px solid #999;
+  text-decoration: underline;
+}
