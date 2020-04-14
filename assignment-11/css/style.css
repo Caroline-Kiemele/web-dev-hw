@@ -41,6 +41,9 @@ body {
 .site-info a {
   display: block;
 }
+.site-links a:hover {
+  text-decoration: underline;
+}
 
 .logo {
   background-color: #000;
