@@ -28,13 +28,13 @@ body {
 }
 
 /*logo, title and site links*/
-.site-info{
+.site-info {
  margin: 2em;
  padding: 20px;
  text-align: center;
  font-size: 2em;
-
 }
+
 .logo {
   background-color: #FFF;
   width: 100px;
