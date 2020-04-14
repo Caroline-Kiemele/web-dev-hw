@@ -54,6 +54,6 @@ body {
   text-transform: uppercase;
 }
 .logo:hover {
-  border: 5px solid #999;
+  border: 5px solid #000;
   text-decoration: underline;
 }
