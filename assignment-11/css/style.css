@@ -38,9 +38,6 @@ body {
  padding: 5px;
  font-size: 1.5em;
 }
-.site-info a {
-  margin: 1em;
-}
 .site-links a:hover {
   text-decoration: underline;
 }
