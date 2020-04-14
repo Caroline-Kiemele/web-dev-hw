@@ -30,6 +30,8 @@ body {
 /*logo, title and site links*/
 .site-info{
  padding: 20px;
+ text-align: center;
+ font-size: 2em;
 
 }
 .logo {
