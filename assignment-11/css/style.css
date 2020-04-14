@@ -55,7 +55,7 @@ body {
   border: 5px solid #003366;
   border-radius: 10%;
 
-  line-height: 100px;
+  line-height: 75px;
   text-transform: uppercase;
 }
 .logo:hover {
