@@ -45,9 +45,11 @@ body {
   height: 100px;
 
   margin: auto
+  padding: 10px;
 
   border: ;
   border-radius: 10%;
 
   line-height: 100px;
+  text-transform: uppercase;
 }
