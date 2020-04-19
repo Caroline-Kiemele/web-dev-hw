@@ -7,6 +7,8 @@ menu {
 
 /* top-level link */
 #site-links {
+  margin: 0;
+  padding: 0;
   display: inline-block;
 }
 #site-links .menu-item {
@@ -18,4 +20,20 @@ menu {
 
   text-align: center;
   color: black;
+}
+#site-links .menu-item:hover {
+  background-color: #006400;
+  color: grey;
+}
+
+/* dropdown */
+#site-links .dropdown {
+  display: inline-block;
+  width: 6em;
+}
+#site-links .dropdown-content {
+  position: absolute;
+
+  background-color: #006400;
+  z-index: 5;
 }
