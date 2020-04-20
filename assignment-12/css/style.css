@@ -37,3 +37,10 @@ menu {
   background-color: #006400;
   z-index: 5;
 }
+#site-links .dropdown-content a {
+  color: black;
+}
+#site-links .dropdown-content a:hover {
+  background-color: #006400;
+  color: grey;
+}
