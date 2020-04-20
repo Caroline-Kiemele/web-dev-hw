@@ -1,3 +1,9 @@
+<link href="https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap" rel="stylesheet">
+
+h1 {
+  font-family: 'Amatic SC', cursive;
+}
+
 /* menu bar/container */
 .navigation {
   margin: 0;
