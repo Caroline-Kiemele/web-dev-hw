@@ -1,5 +1,5 @@
 /* menu bar/container */
-menu {
+.navigation {
   margin: 0;
   padding: 0;
   background-color: green;
@@ -32,6 +32,7 @@ menu {
   width: 6em;
 }
 #site-links .dropdown-content {
+  display: none;
   position: absolute;
 
   background-color: #006400;
@@ -43,4 +44,35 @@ menu {
 #site-links .dropdown-content a:hover {
   background-color: #006400;
   color: grey;
+}
+#site-links .dropdown:hover .dropdown-content {
+  display: block;
+}
+#site-links .dropdown-item {
+  min-width: 6em;
+  padding: 5em 1em;
+  display: block;
+
+  text-align: center;
+}
+.dropdown-item:hover {
+  background-color: green;
+}
+
+/* social media links */
+#related-links {
+  padding: .5em;
+  display: inline-block;
+  float: right;
+}
+#related-links .social-item {
+  margin: 0 5px;
+}
+#related-links img {
+  width: 20px;
+  height: 20px;
+  opacity: .5;
+}
+#related-links img:hover {
+  opacity: 1;
 }
