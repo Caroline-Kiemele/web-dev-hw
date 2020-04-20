@@ -1,7 +1,13 @@
 <link href="https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap" rel="stylesheet">
 
+<link href="https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Oswald:wght@200&display=swap" rel="stylesheet">
+
 h1 {
   font-family: 'Amatic SC', cursive;
+}
+
+h2 {
+  font-family: 'Oswald', sans-serif;
 }
 
 /* menu bar/container */
