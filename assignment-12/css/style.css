@@ -80,3 +80,21 @@
 #related-links img:hover {
   opacity: 1;
 }
+
+#index-content {
+  float: right;
+  width: 100px;
+  height: 120px;
+}
+
+#about-content {
+  float: left;
+  width: 100px;
+  height: 75px;
+}
+
+#services-content {
+  float: right;
+  width: 100px;
+  height: 75px;
+}
