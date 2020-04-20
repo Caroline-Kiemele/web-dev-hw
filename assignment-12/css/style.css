@@ -21,6 +21,11 @@ h2 {
   position: fixed;
 }
 
+#index-content {
+  background-color: #f0f8ff;
+  padding: 30px;
+}
+
 /* top-level link */
 #site-links {
   margin: 0;
@@ -29,7 +34,7 @@ h2 {
 }
 #site-links .menu-item {
   width: 6em;
-  padding: .5em 1em;
+  padding: .1em 1em;
   display: inline-block;
 
   background-color: green;
