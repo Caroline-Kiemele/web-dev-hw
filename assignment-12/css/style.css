@@ -20,26 +20,10 @@ h2 {
 
   position: fixed;
 }
-
-#index-content {
-  background-color: #f0f8ff;
-  padding: 30px;
-}
-
-#service-content {
-  background-color: #f0f8ff;
-  padding: 30px;
-}
-
-#about-content {
-  background-color: #f0f8ff;
-  padding: 30px;
-}
-
-#contact-content {
-  background: #f0f8ff;
-  padding: 30px;
-}
+ body {
+   background-color: #f0f8ff;
+   margin: 30px;
+ }
 
 /* top-level link */
 #site-links {
