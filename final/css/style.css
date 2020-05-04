@@ -1,5 +1,5 @@
 /* menu bar/container */
-.navigation {
+navigation {
   margin: 0;
   padding: 0;
   background-color: #89CFF0;
@@ -27,7 +27,7 @@
   color: black;
 }
 #site-links .menu-item:hover {
-  background-color: #006400;
+  background-color: #0000CD;
   color: grey;
 }
 
