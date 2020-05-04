@@ -20,7 +20,7 @@ p::first-letter {
 /* menu bar/container */
 menu {
   text-align: center;
-  margin: 0;
+  margin: 1em;
   padding: 0;
   background-color: #89CFF0;
   color: white;
