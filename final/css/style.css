@@ -63,3 +63,17 @@
 .dropdown-item:hover {
   background-color: #89CFF0;
 }
+
+.index-content {
+  align-content: center;
+  padding: 5px;
+  margin: 1em;
+}
+
+#about-image {
+  float: right;
+}
+
+#services-image {
+  float: left;
+}
