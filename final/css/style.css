@@ -113,6 +113,26 @@ p::first-letter {
   margin: 1em;
 }
 
+.about-content {
+  text-align: center;
+  padding: 5px;
+  margin: 1em;
+}
+
+.services-content {
+  text-align: center;
+  padding: 5px;
+  margin: 1em;
+}
+
+.contact-content {
+  text-align: center;
+  align-content: center;
+  padding: 5px;
+  margin: 1em;
+}
+
+
 #about-image {
   float: right;
 }
