@@ -12,6 +12,11 @@ body {
 h1 {
   font-weight: bold;
 }
+
+p::first-letter {
+  font-size: 2em;
+  font-weight: bold;
+}
 /* menu bar/container */
 .navigation {
   margin: 0;
