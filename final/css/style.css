@@ -96,6 +96,8 @@ p::first-letter {
 }
 #related-links img:hover {
   opacity: 1;
+}
+
 .dropdown-item:hover {
   background-color: #89CFF0;
 }
