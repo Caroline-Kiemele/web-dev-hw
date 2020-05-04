@@ -79,6 +79,23 @@ p::first-letter {
 
   text-align: center;
 }
+
+/* social media links */
+#related-links {
+  padding: .5em;
+  display: inline-block;
+  float: right;
+}
+#related-links .social-item {
+  margin: 0 5px;
+}
+#related-links img {
+  width: 20px;
+  height: 20px;
+  opacity: .5;
+}
+#related-links img:hover {
+  opacity: 1;
 .dropdown-item:hover {
   background-color: #89CFF0;
 }
