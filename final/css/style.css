@@ -132,6 +132,11 @@ menu {
   margin: 1em;
 }
 
+button:hover {
+  background-color: grey;
+  border: 2px;
+}
+
 form {
   border: 1px;
   border-color: #00008B;
