@@ -1,3 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
+
+body {
+  background-color: #F5FFFA;
+  color: black;
+  padding: 10px;
+  font-family: 'Abel', sans-serif;
+
+  line-height: 1em;
+}
+
+h1 {
+  font-weight: bold;
+}
 /* menu bar/container */
 .navigation {
   margin: 0;
