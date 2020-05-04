@@ -29,7 +29,7 @@ p::first-letter {
   position: fixed;
 }
 
-.fas fa-adjust {
+.fas .fa-adjust {
   float: right;
 }
 
@@ -130,6 +130,12 @@ p::first-letter {
   align-content: center;
   padding: 5px;
   margin: 1em;
+}
+
+form {
+  border: 1px;
+  border-color: #00008B;
+  background-color: #F5FFFA;
 }
 
 
