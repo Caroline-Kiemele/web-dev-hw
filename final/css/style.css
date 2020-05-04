@@ -29,6 +29,10 @@ p::first-letter {
   position: fixed;
 }
 
+.fas fa-adjust {
+  float: right;
+}
+
 /* top-level link */
 #site-links {
   margin: 0;
