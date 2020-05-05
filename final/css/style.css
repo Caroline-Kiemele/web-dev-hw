@@ -21,7 +21,7 @@ p::first-letter {
 menu {
   text-align: center;
   top: 0px;
-  margin: 1em;
+  margin: 0;
   padding: 0;
   background-color: #89CFF0;
   color: white;
